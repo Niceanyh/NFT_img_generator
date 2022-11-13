@@ -7,7 +7,7 @@
 ## Approach 
 By simply using ***os*** (build-in package) to access each pre-made elements and using ***PIL*** library to render images. 
 
-## requirement
+## Requirement
 
 ```pip install pillow```
 

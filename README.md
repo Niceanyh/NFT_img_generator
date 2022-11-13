@@ -5,11 +5,11 @@
 
 
 ## Approach 
-By simply using ***os*** (build-in package) to reach each elements and using ***PIL*** library to render images. 
+By simply using ***os*** (build-in package) to access each pre-made elements and using ***PIL*** library to render images. 
 
 ## requirement
 
-'pip install pillow'
+```pip install pillow```
 
 
 ## Reference
